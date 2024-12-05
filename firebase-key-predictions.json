@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-kevin-443802",
+  "private_key_id": "4c10f1c1970af7aa3f2b1cebb6023aba5255d44d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCHLchaHHfMxbyQ\nzWKPlN2SPdaaIJATO9Kl8ehSQqfgR7MSOcyQkqcECKGi+OvF8caDMjyejOQqXY46\n0olAWuYUXeYoofueKmWkitbdHMJLbMEQ/cM5y9ccu5hRmpc/R28DLYlTlOT4byP3\nUSv0pSm5UsxiRcFKCh/wOayVQ13nkBt2bNS0V43zGr76Bo953xVOJadJmr0Xo4aC\nbPWZIbIOHzzeVf5896bL4enMbF9FKe+6koh5W0/EgaXK80Nse0zVLuiSxmg6kF2M\n2BLSY2Pi1mj9ALOXMtSpKHhi0OwYVMVxweMOzUb1828MXLEQTaHGrsM2NgfA0yof\nel4YFRaLAgMBAAECggEACKkcPvm38ZY+Zu1htSunQalVYhNYAVBB3+cU9VnXG5cJ\nMZyJlXGjFa6sr55QrLvsXGRDK5bnP14DFy2wV9kuO68Dm4xu0uSKFcKqnwjEQfgG\n+Cm2vX5omvfbe5u/hb3z4Z/XPoc5kqXvbfb0+mJii/PY3sSNUuSj9/+zjCFmymEc\nKiq3BIJoSeN+SFK58l5qp6oKYaAL6iIDuwT/jYo3pKg3Y3vmFC8ZLRULJGSJhwDS\n29veltgPhXrv/CmcpRdv33GF7lXSwiQn8J0Wp1SDS6PbDOTztavZdnIRZOGeSNSI\nxcN3Ut5p+MaRz/rsEUxB564DCI3w3RFkPaQ9VNxMYQKBgQC9Q8N/caDH9kY7KCiW\nIfMQMOmkz1AmHLs78DU40YnykBi/TMSsahjAlp9jtRMeAwxugspLgBb7vKC3Tc3e\n0OcxH+DppOgSl2tmsm+hE2aWEsOjompq1P/yNjitZdO2hOUO2COZeaaFlAaTPMBR\nN+ZtXSHd3XOH6wrxmuR4RNht+QKBgQC21+J/0Of9A1rhxfP61mZiihWF07hdDEBj\nh7X7sSt9tqmklUsu5rreWBjISj3MipMi2APjWnZAnyEBwuuLXbOPAmhGffFjUjGk\nG1bOyOpaWd44vHSkDahRAX0CPf6Nfc2bSrV2fBi62OGBvL0TYDMcqYyiBqKP8Vlr\neXWx9UfZowKBgQC2g0VgfdP9YNmjLHvPI5gAshpty1nQFv7bsy2vyClOF3U17TLv\nzTRnbBjyjuiLlYcEfu3T1wbS5bjaa5Yu26dG8SX0Sgld/FUe6M3LOClCaX/uKa6T\nrSnQikcnt71tEkTNhtL1qqFRyUh57ijLaau1JQ2GpYpGtPuNt7/A1ysbCQKBgD0h\nSmm/V4CA2aa4PwzzF4IEdpOqqG37hZ+BJPfEUS0Tn/4Vp/BDVeC2hXqZT7YN8olo\nvUwK15RdX3SuTX/n0PuUK3a97rFtLomWVlyGUcvpVeGUKE8c/dQvcjMItQ1rLQ2p\nWagGb2Iw1pxAlNpghFYl3Y3iOAF2CJZlIlNgFSiPAoGAbhdXxiorfSxAcKFI4Ymv\nMpdq1al1rjp7qVYq4orjVeHHc13nYgfeivolSAym4ruNoU6pymWpOG3s2VUmMQNv\n0jMlwqbmFcnfD0BspFOXL8IMisBnNTwDGBoaT0D5jSrxSgQl3fT75tZaks2kxv4r\n2z0skoiNmaU6RUQn80o1MO8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-key-predictions@submissionmlgc-kevin-443802.iam.gserviceaccount.com",
+  "client_id": "108082456501376555372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-key-predictions%40submissionmlgc-kevin-443802.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

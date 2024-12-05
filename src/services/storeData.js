@@ -1,13 +1,13 @@
 const { Firestore } = require('@google-cloud/firestore');
 const path = require('path');
 
-const pathKey = path.resolve('./firebase-key-predictions-cancer.json')
+const pathKey = path.resolve('./firebase-key-predictions.json')
      
 async function storeData(id, data) {
 
   try {
     const db = new Firestore({
-      projectId: 'submissionmlgc-kevin-443616',
+      projectId: 'submissionmlgc-kevin-443802',
       keyFilename: pathKey,
     });
  
